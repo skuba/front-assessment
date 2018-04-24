@@ -1,4 +1,5 @@
-Front-end Assessment
+Front-end Assessment.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Take care that this is not a fullstack MVC Framework but its an API
@@ -18,9 +19,11 @@ Clone the project:
 Or download the zip file from github  https://github.com/skuba/front-assessment.git 
 
 inside of the folder execute : 
-> npm install
-> npm install -g create-react-app
-> npm start 
+>  npm install
+
+>  npm install -g create-react-app
+
+>  npm start 
 
 After that automatically  the app will be  deployed on your default browser...
 or open your favorite Browser and jump to http://localhost:3000/
